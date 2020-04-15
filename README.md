@@ -7,4 +7,4 @@ O desafio era desenvolver uma versão **mobile first** do Instagram utilizando a
 > [Instagram Codenation](https://challenge-instagram-codenation.netlify.com/)
 
 
-![preview](https://user-images.githubusercontent.com/47192417/79345097-0c889e00-7f07-11ea-928b-cc77ed4082da.png)
+![preview](https://user-images.githubusercontent.com/47192417/79345363-66896380-7f07-11ea-8750-bcc007b56e2e.png)
