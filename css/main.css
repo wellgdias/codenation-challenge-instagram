@@ -19,8 +19,12 @@ body {
   max-width: 760px;
 }
 
+@media screen and (min-width: 728px){
+  
+}
+
 .header {
-  background: #ffffff;
+  background: #fff;
   left: 0;
   top: 0;
   padding: 8px 16px;
@@ -61,7 +65,7 @@ body {
 }
 
 .header__link {
-  color: #000000;
+  color: #000;
   background-color: transparent;
 }
 
@@ -108,7 +112,7 @@ body {
 
 .stories__image {
   border-radius: 100%;
-  border: 2px solid white;
+  border: 2px solid #fff;
   display: inline-block;
   justify-content: center;
   overflow: hidden;
@@ -126,7 +130,7 @@ body {
 }
 
 .post__card {
-  background-color: white;
+  background-color: #fff;
   border-radius: 10px;
   border: 1px solid rgba(0, 0, 0, 0.1);
   display: flex;
@@ -159,7 +163,7 @@ body {
 .post__user-name {
   font-weight: bold;
   text-decoration: none;
-  color: #000000;
+  color: #000;
   font-size: 12px;
 }
 
@@ -167,6 +171,7 @@ body {
   font-size: 14px;
   background-color: transparent;
   border: none;
+  outline: none;
 }
 
 .post__figure {
